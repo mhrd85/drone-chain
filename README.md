@@ -1,4 +1,4 @@
-# drone-chain
+# Drone-Chain
 Here you can find the finall project of the "NASA Space Apps Challenge"
 
 Drone-Chain’s core functional objective is to bridge two environments:  on-chain and off-chain
